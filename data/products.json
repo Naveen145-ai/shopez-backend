@@ -1,0 +1,112 @@
+[{
+    "name": "OPPO F21 5G",
+    "price": 245.67,
+    "description": "OPPO is the good",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/1.jpg"
+        },
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Mobile Phone",
+    "seller": "Amazon",
+    "stock": 5
+},
+{
+    "name": "WRISTO HD, Samrt watch",
+    "price": 150.32,
+    "description": "It is exclusive watch",
+    "ratings": 3.5,
+    "images": [
+        {
+            "image": "/images/products/2.jpg"
+        }
+    ],
+    "category": "Acessories",
+    "seller": "Flipkart",
+    "stock": 9
+
+
+},
+
+{
+    "name": "Dell 3511 Laptop",
+    "price": 440.57,
+    "description": "It is exclusive laptop",
+    "ratings": 2,
+    "images": [
+        {
+            "image": "/images/products/3.jpg"
+        }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+},
+
+{
+    "name": "Headphone",
+    "price": 150.32,
+    "description": "It is exclusive watch",
+    "ratings": 3.5,
+    "images": [
+        {
+            "image": "/images/products/4.jpg"
+        }
+    ],
+    "category": "Acessories",
+    "seller": "Flipkart",
+    "stock": 9
+},
+
+{
+    "name": "Shoes",
+    "price": 150.32,
+    "description": "It is exclusive shoes",
+    "ratings": 3.5,
+    "images": [
+        {
+            "image": "/images/products/5.jpg"
+        }
+    ],
+    "category": "Acessories",
+    "seller": "Flipkart",
+    "stock": 9
+},
+
+
+{
+    "name": "Asus Laptop",
+    "price": 250.32,
+    "description": "It is exclusive laptops",
+    "ratings": 4.5,
+    "images": [
+        {
+            "image": "/images/products/6.jpg"
+        }
+    ],
+    "category": "Acessories",
+    "seller": "Flipkart",
+    "stock": 8
+},
+
+
+
+{
+    "name": "Lenovo Laptop",
+    "price": 190.32,
+    "description": "It is exclusive Laptop",
+    "ratings": 4.0,
+    "images": [
+        {
+            "image": "/images/products/7.jpg"
+        }
+    ],
+    "category": "Acessories",
+    "seller": "Flipkart",
+    "stock": 6
+}
+]
